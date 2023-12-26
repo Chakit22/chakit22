@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chakit22&label=Profile%20views&color=0e75b6&style=flat" alt="chakit22" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chakit22" alt="chakit22" /></a> </p>
-
 - 🔭 I’m currently contributing to **Open source**
 
 - 🌱 I’m currently learning **React, NodeJS**
